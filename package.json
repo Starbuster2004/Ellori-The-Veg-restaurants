@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vite": "^8.0.3"
+    "vite": "^6.2.0"
+  },
+  "engines": {
+    "node": ">=20.11.0"
   }
 }
